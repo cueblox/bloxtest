@@ -12,6 +12,8 @@
             // Lets assume lowercase Profile with _id is the foreign key
             // Plural for directory name
             plural: "profiles"
+            supportedExtensions: ["yaml", "yml", "md", "mdx"]
+
         }
 
         name: #Name
