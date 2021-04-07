@@ -2,7 +2,7 @@
     // No "version", we expect people to use the path
     // of the schema to version
     _schema: {
-        name: "blox"
+        name: "profile"
         namespace: "schemas.devrel-blox.com"
     }
 
